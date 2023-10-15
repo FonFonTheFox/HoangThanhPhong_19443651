@@ -1,0 +1,12 @@
+Truoc khi chay project:
+-cai dat react-native-gesture-handler trong expo tren web 
+https://reactnavigation.org/docs/stack-navigator/:
+
+npx expo install react-native-gesture-handler
+
+cd AwesomeProject
+
+npm run web
+
+video minh chung:
+https://drive.google.com/file/d/1iqam0IxLWqn5ZTcMFxe6lE4K-aRVGgv1/view?usp=drive_link
